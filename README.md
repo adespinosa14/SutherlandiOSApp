@@ -6,7 +6,7 @@
 
 # 🎮 Sutherland Web App — Full Stack Flask + iOS App
 ---
-# [Web App](https://github.com/adespinosa14/SutherlandiOSApp.git) Repo | [iOS App](https://github.com/adespinosa14/SutherlandAppFlask.git) Repo
+# [Web App](https://github.com/adespinosa14/SutherlandAppFlask.git) Repo | [iOS App](https://github.com/adespinosa14/SutherlandiOSApp.git) Repo
 
 ## 📌 Features
 - Create and manage **Programs**, with each containing a set of games
